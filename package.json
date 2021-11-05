@@ -1,0 +1,19 @@
+{
+  "name": "lg-qrcode2",
+  "version": "0.0.1",
+  "description": "克隆qrcode2",
+  "main": "qrcode.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lginsane/lg-qrcode2.git"
+  },
+  "author": "lginsane",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lginsane/lg-qrcode2/issues"
+  },
+  "homepage": "https://github.com/lginsane/lg-qrcode2#readme"
+}
