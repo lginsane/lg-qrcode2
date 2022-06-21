@@ -31,4 +31,4 @@ qrcode.makeCode("http://naver.com"); // 生成另外一个二维码
 
 完全克隆[qrcode2](https://github.com/davidshimjs/qrcodejs)
 
-原因：处理严格模式下._admin报错问题
+原因：处理严格模式下._android报错问题
